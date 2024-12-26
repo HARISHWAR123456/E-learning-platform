@@ -1,0 +1,30 @@
+/* Instructors page specific styles */
+.instructors-header {
+    background-color: #f8f9fa;
+    padding: 4rem 0 2rem;
+    text-align: center;
+}
+
+.instructors-grid {
+    padding: 4rem 0;
+}
+
+.instructor-card {
+    height: 100%;
+    transition: transform 0.3s;
+}
+
+.instructor-card:hover {
+    transform: translateY(-5px);
+}
+
+.instructor-image {
+    height: 300px;
+    object-fit: cover;
+}
+
+.instructor-stats {
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,9 @@
+/* Main stylesheet - imports all modules */
+@import 'base.css';
+@import 'components.css';
+@import 'layout.css';
+@import 'navbar.css';
+@import 'footer.css';
+@import 'courses.css';
+@import 'instructors.css';
+@import 'auth.css';

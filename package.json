@@ -1,0 +1,11 @@
+{
+  "name": "edulearn-platform",
+  "version": "1.0.0",
+  "description": "E-Learning Platform",
+  "scripts": {
+    "dev": "http-server . -p 8080 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

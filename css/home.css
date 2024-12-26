@@ -1,0 +1,23 @@
+/* Home page specific styles */
+.hero {
+    padding: 4rem 0;
+    background-color: #f8f9fa;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.hero .lead {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+}
+
+.featured-courses {
+    padding: 4rem 0;
+}
+
+.featured-courses h2 {
+    margin-bottom: 3rem;
+}

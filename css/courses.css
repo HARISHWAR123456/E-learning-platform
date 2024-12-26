@@ -1,0 +1,33 @@
+/* Courses page specific styles */
+.courses-header {
+    background-color: #f8f9fa;
+    padding: 4rem 0 2rem;
+    text-align: center;
+}
+
+.courses-header h1 {
+    margin-bottom: 2rem;
+}
+
+.courses-grid {
+    padding: 4rem 0;
+}
+
+.course-card {
+    height: 100%;
+    transition: transform 0.3s;
+}
+
+.course-card:hover {
+    transform: translateY(-5px);
+}
+
+.course-image {
+    height: 200px;
+    object-fit: cover;
+}
+
+.course-stats {
+    color: var(--secondary-color);
+    font-size: 0.9rem;
+}
